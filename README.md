@@ -1,4 +1,4 @@
-# Flow and Texture GAN (FTGAN)
+# Flow and Texture GAN (FTGAN) - Copy from https://github.com/mil-tokyo/FTGAN
 ## Publication
 Hierarchical Video Generation from Orthogonal Information: Optical Flow and Texture ([arxiv](https://arxiv.org/pdf/1711.09618.pdf))
 [Katsunori Ohnishi](http://katsunoriohnishi.github.io/)\*, Shohei Yamamoto\*, [Yoshitaka Ushiku](http://www.mi.t.u-tokyo.ac.jp/ushiku/), [Tatsuya Harada](http://www.mi.t.u-tokyo.ac.jp/harada/).  
