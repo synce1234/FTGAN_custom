@@ -127,7 +127,7 @@ def gan_test(args, model_path):
 
 def main():
     parser = argparse.ArgumentParser(description='Hierarchical Video Generation from Orthogonal Information: Optical Flow and Texture (AAAI-18)')
-    parser.add_argument('--gpu', '-g', default=-1, type=int,
+    parser.add_argument('--gpu', '-g', default=0, type=int,
                         help='GPU ID (negative value indicates CPU)')
     parser.add_argument('--out', '-o', default='../result_demo/',
                         help='Output directory')
